@@ -1,0 +1,82 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_C7B6AFA0_D719_167A_41DF_0765A01A3567.source = http://www.facebook.com/loremipsum
+LinkBehaviour_C7B68FA0_D719_167A_41E7_AB553B1726BF.source = http://www.loremipsum.com
+LinkBehaviour_C7B6EFA0_D719_167A_41EA_4B368D360593.source = http://www.loremipsum.com
+LinkBehaviour_C7B6DFA0_D719_167A_41E2_9AFB24763F41.source = http://www.twitter.com/loremipsum
+
+## Media
+
+### Audio
+audiores_E2E2EC63_FB3B_C483_41E2_ABC4EE6507D7.url = media/audio_E27518F4_FB3D_CD85_41A4_A5F760A6B398_en.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_4D794C4C_428E_CFD1_41B5_396C2803D492.url = media/zoomImage_314EAD5B_14D7_A12F_41AE_5E2915784BCF_en_0_0.jpeg
+imlevel_4D795C4C_428E_CFD1_41CB_AB443594BFEF.url = media/zoomImage_314EAD5B_14D7_A12F_41AE_5E2915784BCF_en_0_1.jpeg
+imlevel_4D796C4C_428E_CFD1_41C8_0AF4CE1F43C9.url = media/zoomImage_314EAD5B_14D7_A12F_41AE_5E2915784BCF_en_0_2.jpeg
+imlevel_4D79FC3D_428E_CFB3_41CA_55BC58879954.url = media/zoomImage_3784BC96_14D3_6726_4196_9D78EFE1F5BD_en_0_0.png
+imlevel_4D781C3D_428E_CFB3_41C1_5752E78BE157.url = media/zoomImage_3784BC96_14D3_6726_4196_9D78EFE1F5BD_en_0_1.png
+imlevel_4D782C3D_428E_CFB3_41CB_CDC53643DC9C.url = media/zoomImage_3784BC96_14D3_6726_4196_9D78EFE1F5BD_en_0_2.png
+imlevel_4D783C3D_428E_CFB3_41C3_893900996B54.url = media/zoomImage_3784BC96_14D3_6726_4196_9D78EFE1F5BD_en_0_3.png
+
+### Popup Image
+
+### Title
+panorama_21350C74_0BC9_B2AC_4185_AEC9490CA298.label = 2nd Bedroom
+panorama_23480616_0BC8_DE6C_41A1_06447BC5EDBC.label = ASCONA
+album_31F18DBD_14D7_E16B_41A8_0B40AB1BAA93_0.label = ASCONA P.jpg
+album_0B311173_14B1_61FF_4165_6458C32B8EAC_0.label = BROSUR-LUGANO-VERNA-ASCONA-COVER2 PNG
+panorama_00444460_1B47_853E_4189_5EF35E8A41A6.label = Backyard
+panorama_2349F1B7_0BC8_55AD_417F_F481BFBDE179.label = Bathroom 1
+panorama_234999B1_0BC8_55A4_412A_C314E98035E0.label = Bathroom 2
+panorama_0359B09B_1B4A_9D03_41B6_13CD5D5D10DF.label = Entrance
+panorama_23497F99_0BC8_6E65_4192_3DF45F070D58.label = Foyer
+panorama_0351BADC_1B4B_8D05_41B0_A746EE70C750.label = Guess room/Living Room
+panorama_002EF2FE_1B4A_7D05_419E_BA587EEAD77C.label = Kitchen
+panorama_234997C5_0BC8_5DED_4181_86F60B77DDFE.label = Living Room
+panorama_234822B8_0BC8_57A3_41A4_7A228E202226.label = Master Bedroom
+album_31F18DBD_14D7_E16B_41A8_0B40AB1BAA93.label = Photo Album ASCONA P.jpg
+album_0B311173_14B1_61FF_4165_6458C32B8EAC.label = Photo Album BROSUR-LUGANO-VERNA-ASCONA-COVER2 PNG
+panorama_23498BC5_0BC8_75ED_4199_E1E0396DACBD.label = Stairs (1)
+panorama_2349D5CC_0BC8_7DFC_41A4_D7B74C6396FF.label = Stairs (2)
+
+## Skin
+
+### Button
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = CONTACT
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = CONTACT
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = CONTACT US
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = EXPLORE
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = EXPLORE
+Button_727E644B_7DD2_675A_41A5_E1B24D4186E2.label = GO TO BUY 
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMATION
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = PHOTOALBUM
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = PHOTOALBUM
+
+### Image
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_en.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_en.png
+Image_727DA44B_7DD2_675A_4187_461ECAA80913.url = skin/Image_727DA44B_7DD2_675A_4187_461ECAA80913_en.jpg
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_en.jpg
+Image_AEAE5596_9FEC_73EB_41C0_F122D54DDA03.url = skin/Image_AEAE5596_9FEC_73EB_41C0_F122D54DDA03_en.png
+Image_C37558C0_D917_1A3A_41DA_C72EB7CDC870.url = skin/Image_C37558C0_D917_1A3A_41DA_C72EB7CDC870_en.png
+Image_CF0BD060_D739_0AFA_41E4_F785AF1E0C70.url = skin/Image_CF0BD060_D739_0AFA_41E4_F785AF1E0C70_en.png
+Image_E9465513_FADD_4483_41B4_8D982EFBC164.url = skin/Image_E9465513_FADD_4483_41B4_8D982EFBC164_en.png
+Image_E9CC9945_FADB_CC87_41EC_0E4AA9A3091F.url = skin/Image_E9CC9945_FADB_CC87_41EC_0E4AA9A3091F_en.png
+Image_EFB5C474_FAD5_4485_41E4_A8143F9B43A2.url = skin/Image_EFB5C474_FAD5_4485_41E4_A8143F9B43A2_en.png
+
+### Multiline Text
+HTMLText_727E544B_7DD2_675A_41D7_B13EDAF14E19.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.555555555555555vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Exo';"><B><I>MARKETING GALLERY</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.555555555555555vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:5.56vmin;font-family:&quot;Arial Black&quot;, Gadget, sans-serif;"><B><I>CITRALAND PALEMBANG</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.56vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.5vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.722222222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Roboto Black';">Jl. Mayjen Yusuf Singedekane, Kel. Keramasan Kec. Kertapati, Palembang, Keramasan, Kec. Kertapati, Kota Palembang, Sumatera Selatan 30259</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.5vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.722222222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Segoe UI Semibold';">TEL | +62 711 620 888</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.722222222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Segoe UI Semibold';">PHONE | 0888 0807 6888</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.722222222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Segoe UI Semibold';">IG | CITRALANDPALEMBANG</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.722222222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Segoe UI Semibold';">WEB | CITRALANDPALEMBANG.COM</SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.6283524904214557vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.63vw;font-family:'Exo';"><B><I>MARKETING GALLERY</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.149425287356322vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.15vw;font-family:&quot;Arial Black&quot;, Gadget, sans-serif;"><B><I>CITRALAND PALEMBANG</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2452107279693485vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.25vw;font-family:'Roboto Black';">Jl. Mayjen Yusuf Singedekane, Kel. Keramasan Kec. Kertapati, Palembang, Keramasan, Kec. Kertapati, Kota Palembang, Sumatera Selatan 30259</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Segoe UI Semibold';">TEL | +62 711 620 888</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Segoe UI Semibold';">PHONE | 0888 0807 6888</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Segoe UI Semibold';">IG | CITRALANDPALEMBANG</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Segoe UI Semibold';">WEB | CITRALANDPALEMBANG.COM</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = ASCONA
